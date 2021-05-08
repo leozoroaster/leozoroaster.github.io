@@ -14,11 +14,11 @@ I am a first-year PhD student in the CS Department at Princeton University, advi
 My research interests lie in machine learning theory, especially expressivity of neural networks and online learning. I am a fan of constructive proofs in proving bounds.
 
 === Preprints
-. Bohang Zhang, Tianle Cai, Zhou Lu, Di He and Liwei Wang. \"Towards Certifying ℓ∞ Robustness using Neural Networks with ℓ∞-dist Neurons\". \[[https://arxiv.org/pdf/2102.05363.pdf pdf]\]
 . Qinghua Liu and Zhou Lu. \"A Tight Lower Bound for Uniformly Stable Algorithms\". \[[https://arxiv.org/pdf/2012.13326.pdf pdf]\]
 
 === Publications 
-. Naman Agarwal, Nataly Brukhim, Elad Hazan and Zhou Lu, \"Boosting for Control of Dynamical Systems\",  In ICML 2020.\[[http://proceedings.mlr.press/v119/agarwal20b/agarwal20b.pdf pdf]\]
+. Bohang Zhang, Tianle Cai, Zhou Lu, Di He and Liwei Wang. \"Towards Certifying ℓ∞ Robustness using Neural Networks with ℓ∞-dist Neurons\", in ICML 2021. \[[https://arxiv.org/pdf/2102.05363.pdf pdf]\]
+. Naman Agarwal, Nataly Brukhim, Elad Hazan and Zhou Lu, \"Boosting for Control of Dynamical Systems\",  in ICML 2020.\[[http://proceedings.mlr.press/v119/agarwal20b/agarwal20b.pdf pdf]\]
 . Zhou Lu, Hongming Pu, Feicheng Wang, Zhiqiang Hu and Liwei Wang, \" The expressive power of neural networks: A view from the width \", in NIPS 2017. \[[https://papers.nips.cc/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf pdf]\]
 
 === Not Intended to Publish
