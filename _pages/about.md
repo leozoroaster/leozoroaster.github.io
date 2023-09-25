@@ -12,7 +12,8 @@ I'm Zhou Lu, a fourth-year CS PhD student at Princeton University, advised by Pr
 
 Publications
 ======
-
+* [A Theory of Multimodal Learning](https://arxiv.org/pdf/2309.12458.pdf).\\
+  Zhou Lu. In Neurips 2023.
 * [Projection-free adaptive regret with membership oracles](https://proceedings.mlr.press/v201/lu23a/lu23a.pdf).\\
   Zhou Lu, Nataly Brukhim, Paula Gradu, Elad Hazan. In ALT 2023.
 * [Non-convex online learning via algorithmic equivalence](https://proceedings.neurips.cc/paper_files/paper/2022/file/8b40b4984e6c09ee49333ddd2dc719d4-Paper-Conference.pdf).\\
