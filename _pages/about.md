@@ -10,6 +10,11 @@ redirect_from:
 
 I'm Zhou Lu, a fourth-year CS PhD student at Princeton University, advised by Professor [Elad Hazan](https://www.ehazan.com/). Before Princeton, I received my bachelor's degree in Math from Peking University, advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/). I'm interested in machine learning theory.
 
+Recent Manuscripts
+======
+* [On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782.pdf).\\
+  Zhou Lu. Arxiv preprint.
+
 Publications
 ======
 * [A Theory of Multimodal Learning](https://arxiv.org/pdf/2309.12458.pdf).\\
