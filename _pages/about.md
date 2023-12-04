@@ -12,6 +12,8 @@ I'm Zhou Lu, a fourth-year CS PhD student at Princeton University, advised by Pr
 
 Recent Manuscripts
 ======
+* [Non-uniform Online Learning: Towards Understanding Induction](https://arxiv.org/pdf/2312.00170.pdf).\\
+  Zhou Lu. Arxiv preprint.
 * [On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782.pdf).\\
   Zhou Lu. Arxiv preprint.
 
@@ -29,3 +31,7 @@ Publications
   Naman Agarwal, Nataly Brukhim, Elad Hazan, Zhou Lu. In ICML 2020.
 * [The expressive power of neural networks: A view from the width](https://proceedings.neurips.cc/paper_files/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf).\\
   Zhou Lu, Hongming Pu, Feicheng Wang, Zhiqiang Hu, Liwei Wang. In NIPS 2017.
+
+Services
+======
+Reviewers for Neurips, ICML, ICLR, COLT, STOC, Mathematical Programming, IEEE-TPAMI.
