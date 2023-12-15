@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Zhou Lu, a fourth-year CS PhD student at Princeton University, advised by Professor [Elad Hazan](https://www.ehazan.com/). Before Princeton, I received my bachelor's degree in Math from Peking University, advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/). I'm interested in machine learning theory.
+I'm Zhou Lu, a fourth-year PhD student in the Department of Computer Science at Princeton University. I'm fortunate to be advised by Professor [Elad Hazan](https://www.ehazan.com/). Before Princeton, I received a B.S. degree in Math from Peking University, advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/). I'm interested in machine learning theory.
 
 Recent Manuscripts
 ======
