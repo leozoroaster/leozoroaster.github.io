@@ -14,11 +14,11 @@ Recent Manuscripts
 ======
 * [Non-uniform Online Learning: Towards Understanding Induction](https://arxiv.org/pdf/2312.00170.pdf).\\
   Zhou Lu. Arxiv preprint.
-* [On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782.pdf).\\
-  Zhou Lu. Arxiv preprint.
 
 Publications
 ======
+* [On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782.pdf).\\
+  Zhou Lu. In ALT 2024.
 * [A Theory of Multimodal Learning](https://arxiv.org/pdf/2309.12458.pdf).\\
   Zhou Lu. In Neurips 2023.
 * [Projection-free adaptive regret with membership oracles](https://proceedings.mlr.press/v201/lu23a/lu23a.pdf).\\
