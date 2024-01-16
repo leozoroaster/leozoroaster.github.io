@@ -18,7 +18,7 @@ Recent Manuscripts
 Publications
 ======
 * [Adaptive Regret for Bandits Made Possible: Two Queries Suffice](https://openreview.net/pdf?id=AY9KyTGcnk).\\
-  Zhou Lu*, Qiuyi Zhang*, Xinyi Chen, Fred Zhang, David Woodruff, Elad Hazan. ICLR 2024.
+  Zhou Lu, Qiuyi Zhang, Xinyi Chen, Fred Zhang, David Woodruff, Elad Hazan. ICLR 2024.
 * [On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782v2.pdf).\\
   Zhou Lu. ALT 2024.
 * [A Theory of Multimodal Learning](https://arxiv.org/pdf/2309.12458v2.pdf).\\
@@ -30,7 +30,7 @@ Publications
 * [Towards Certifying L-infinity Robustness using Neural Networks with L-inf-dist Neurons](http://proceedings.mlr.press/v139/zhang21b/zhang21b.pdf).\\
   Bohang Zhang, Tianle Cai, Zhou Lu, Di He, Liwei Wang. ICML 2021.
 * [Boosting for control of dynamical systems](http://proceedings.mlr.press/v119/agarwal20b/agarwal20b.pdf).\\
-  Naman Agarwal, Nataly Brukhim, Elad Hazan, Zhou Lu (alphabetical). ICML 2020.
+  Naman Agarwal, Nataly Brukhim, Elad Hazan, Zhou Lu. ICML 2020.
 * [The expressive power of neural networks: A view from the width](https://proceedings.neurips.cc/paper_files/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf).\\
   Zhou Lu, Hongming Pu, Feicheng Wang, Zhiqiang Hu, Liwei Wang. NIPS 2017.
 
