@@ -17,7 +17,7 @@ Recent Manuscripts
 
 Publications
 ======
-* [Adaptive Regret for Bandits Made Possible: Two Queries Suffice](https://openreview.net/pdf?id=AY9KyTGcnk).\\
+* [Adaptive Regret for Bandits Made Possible: Two Queries Suffice](https://arxiv.org/pdf/2401.09278.pdf).\\
   Zhou Lu, Qiuyi Zhang, Xinyi Chen, Fred Zhang, David Woodruff, Elad Hazan. ICLR 2024.
 * [On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782v2.pdf).\\
   Zhou Lu. ALT 2024.
