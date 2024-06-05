@@ -12,6 +12,8 @@ I'm a fourth-year PhD student in the Department of Computer Science at Princeton
 
 Recent Manuscripts
 ======
+* [Online Control in Population Dynamics](https://arxiv.org/pdf/2406.01799).\\
+  Noah Golowich, Elad Hazan, Zhou Lu, Dhruv Rohatgi, Y. Jennifer Sun. Arxiv preprint.
 * [Non-uniform Online Learning: Towards Understanding Induction](https://arxiv.org/pdf/2312.00170.pdf).\\
   Zhou Lu. Arxiv preprint.
 
