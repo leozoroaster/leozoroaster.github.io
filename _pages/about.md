@@ -19,6 +19,8 @@ Recent Manuscripts
 
 Publications
 ======
+* [Adaptive Online Learning of Quantum States](https://quantum-journal.org/papers/q-2024-09-12-1471/).\\
+  Xinyi Chen, Elad Hazan, Tongyang Li, Zhou Lu, Xinzhao Wang, Rui Yang. Quantum.
 * [Adaptive Regret for Bandits Made Possible: Two Queries Suffice](https://arxiv.org/pdf/2401.09278.pdf).\\
   Zhou Lu, Qiuyi Zhang, Xinyi Chen, Fred Zhang, David Woodruff, Elad Hazan. ICLR 2024.
 * [On the Computational Benefit of Multimodal Learning](https://arxiv.org/pdf/2309.13782v2.pdf).\\
