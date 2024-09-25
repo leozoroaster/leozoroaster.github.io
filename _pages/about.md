@@ -10,20 +10,13 @@ redirect_from:
 
 I'm a fourth-year PhD student in the Department of Computer Science at Princeton University. I'm fortunate to be advised by Professor [Elad Hazan](https://www.ehazan.com/). Before Princeton, I received a B.S. degree in Math from Peking University, advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/). I'm interested in learning theory.
 
-Recent Manuscripts
-======
-* [Online Control in Population Dynamics](https://arxiv.org/pdf/2406.01799).\\
-  Noah Golowich, Elad Hazan, Zhou Lu, Dhruv Rohatgi, Y. Jennifer Sun. Arxiv preprint.
-* [Non-uniform Online Learning: Towards Understanding Induction](https://arxiv.org/pdf/2312.00170.pdf).\\
-  Zhou Lu. Arxiv preprint.
-
 Publications
 ======
-* [When is Inductive Inference Possible?].\\
+* When is Inductive Inference Possible?.\\
   Zhou Lu. Neurips 2024 (**spotlight**).
 * [Online Control in Population Dynamics](https://arxiv.org/pdf/2406.01799).\\
   Noah Golowich, Elad Hazan, Zhou Lu, Dhruv Rohatgi, Y. Jennifer Sun. Neurips 2024.
-* [Tight Rates for Bandit Control Beyond Quadratics].\\
+* Tight Rates for Bandit Control Beyond Quadratics.\\
   Y. Jennifer Sun, Zhou Lu. Neurips 2024.  
 * [Adaptive Online Learning of Quantum States](https://quantum-journal.org/papers/q-2024-09-12-1471/).\\
   Xinyi Chen, Elad Hazan, Tongyang Li, Zhou Lu, Xinzhao Wang, Rui Yang. Quantum.
