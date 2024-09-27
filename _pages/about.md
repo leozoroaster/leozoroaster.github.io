@@ -12,7 +12,7 @@ I'm a fourth-year PhD student in the Department of Computer Science at Princeton
 
 Publications
 ======
-* When is Inductive Inference Possible?.\\
+* [When is Inductive Inference Possible?](https://arxiv.org/pdf/2312.00170).\\
   Zhou Lu. Neurips 2024 (**spotlight**).
 * [Online Control in Population Dynamics](https://arxiv.org/pdf/2406.01799).\\
   Noah Golowich, Elad Hazan, Zhou Lu, Dhruv Rohatgi, Y. Jennifer Sun. Neurips 2024.
