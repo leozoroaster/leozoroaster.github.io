@@ -16,7 +16,7 @@ Publications
   Zhou Lu. Neurips 2024 (**spotlight**).
 * [Online Control in Population Dynamics](https://arxiv.org/pdf/2406.01799).\\
   Noah Golowich, Elad Hazan, Zhou Lu, Dhruv Rohatgi, Y. Jennifer Sun. Neurips 2024.
-* Tight Rates for Bandit Control Beyond Quadratics.\\
+* [Tight Rates for Bandit Control Beyond Quadratics](https://arxiv.org/pdf/2410.00993).\\
   Y. Jennifer Sun, Zhou Lu. Neurips 2024.  
 * [Adaptive Online Learning of Quantum States](https://quantum-journal.org/papers/q-2024-09-12-1471/).\\
   Xinyi Chen, Elad Hazan, Tongyang Li, Zhou Lu, Xinzhao Wang, Rui Yang. Quantum.
