@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth-year PhD student in the Department of Computer Science at Princeton University. I'm fortunate to be advised by Professor [Elad Hazan](https://www.ehazan.com/). Before Princeton, I received a B.S. degree in Math from Peking University, advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/). I'm interested in learning theory.
+I'm a fifth-year PhD student in the Department of Computer Science at Princeton University. I'm fortunate to be advised by Professor [Elad Hazan](https://www.ehazan.com/). Before Princeton, I received a B.S. degree in Math from Peking University, advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/). I'm interested in learning theory.
 
 Publications
 ======
