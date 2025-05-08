@@ -12,6 +12,8 @@ I'm a fifth-year PhD student in the Department of Computer Science at Princeton 
 
 Publications
 ======
+* [Sparsity-Based Interpolation of External, Internal and Swap Regret](https://arxiv.org/pdf/2502.04543).\\
+  Zhou Lu, Y. Jennifer Sun, Zhiyu Zhang. COLT 2025.  
 * [When is Inductive Inference Possible?](https://arxiv.org/pdf/2312.00170).\\
   Zhou Lu. Neurips 2024 (**spotlight**).
 * [Online Control in Population Dynamics](https://arxiv.org/pdf/2406.01799).\\
