@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am a research scientist at Meta.
+
 I received my Ph.D. in CS at Princeton University, advised by Professor [Elad Hazan](https://www.ehazan.com/). Previously, I received a B.S. degree in Math at Peking University, advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/). 
 
 I'm interested in learning theory, particularly its epistemological implications: see machine learning as a form of epistemology for machines from their empirical world (data), then learning theory offers formal tools for epistemological questions conversely. For example, under what circumstances can we rigorously justify induction?
-
-I will join Meta as a research scientist.
 
 Publications
 ======
