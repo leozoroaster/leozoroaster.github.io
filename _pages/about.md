@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+{% for pub in site.publications %}
+- [{{ pub.title }}]({{ pub.url }})  
+  {{ pub.excerpt }}
+{% endfor %}
+
 I am a research scientist at Meta.
 
 I received my Ph.D. in CS at Princeton University, advised by Professor [Elad Hazan](https://www.ehazan.com/). Previously, I received a B.S. degree in Math at Peking University, advised by Professor [Liwei Wang](http://www.liweiwang-pku.com/). 
