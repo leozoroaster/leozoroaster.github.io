@@ -1,9 +1,9 @@
 ---
 title: "The expressive power of neural networks: A view from the width"
 collection: publications
-permalink: /publication/nips17
 date: 2017-12-01
 venue: "NIPS"
 excerpt: 'Zhou Lu, Hongming Pu, Feicheng Wang, Zhiqiang Hu, Liwei Wang. NIPS 2017.'
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2017/file/32cbf687880eb1674a07bf717761dd3a-Paper.pdf'
 layout: none
 ---
