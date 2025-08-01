@@ -1,9 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
+{% for pub in site.publications %}
+- [{{ pub.title }}]({{ pub.url }})  
+  {{ pub.excerpt }}
+{% endfor %}
